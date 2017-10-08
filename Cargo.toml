@@ -1,0 +1,10 @@
+[package]
+name = "hastebin"
+version = "0.1.0"
+authors = ["LightDiscord <contact@lightdiscord.fr>"]
+description = "Publish code on Hastebin using Pipes"
+license = "MIT"
+keywords = ["rust", "hastebin", "pipes"]
+repository = "https://github.com/LightDiscord/Hastebin.rs"
+
+[dependencies]
